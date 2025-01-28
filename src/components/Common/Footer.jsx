@@ -46,6 +46,7 @@ const Footer = () => {
             </div>
 
             <div className="w-[48%] lg:w-[30%] mb-7 lg:pl-0">
+              <div></div>
               <h1 className="text-richblack-50 font-semibold text-[16px]">
                 Resources
               </h1>
